@@ -1,15 +1,13 @@
-Kernel
-
-Boot
-
-Events
-
-Services
-
-Storage
-
-Filesystem
-
-Desktop
-
-Renderer
+packages/
+└── runtime/
+    ├── src/
+    │   ├── Kernel.ts
+    │   ├── EventBus.ts
+    │   ├── WindowManager.ts
+    │   ├── Desktop.ts
+    │   ├── Storage.ts
+    │   └── index.ts
+    │
+    ├── package.json
+    ├── tsconfig.json
+    └── README.md
