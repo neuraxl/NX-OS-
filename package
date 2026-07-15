@@ -1,0 +1,8 @@
+packages/
+
+@nx/governance
+@nx/runtime
+@nx/sdk
+@nx/ui
+@nx/studio
+@nx/builder
