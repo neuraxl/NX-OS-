@@ -1,0 +1,14 @@
+NX-OS-
+│
+├── apps/
+├── packages/
+├── docs/
+├── tests/
+├── tools/
+├── scripts/
+├── examples/
+├── .github/
+├── package.json
+├── pnpm-workspace.yaml
+├── turbo.json
+└── README.md
